@@ -1,0 +1,5 @@
+  "BOT_TOKEN": "8414826538:AAH9vOxXUmfObiT6TpCaYcLcRPnISLdrr6A",
+  "ADMIN_ID": 7944027261,
+  "DATABASE": "./bot.db",
+  "WELCOME_HTML": "<b>🎮 مرحبًا بك في بوت الشحن!</b>\nاختر من الأزرار أدناه.",
+  "ALLOW_DIRECT_MESSAGES": false
